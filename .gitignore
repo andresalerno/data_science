@@ -16,3 +16,4 @@
 /Scripts/*
 pyvenv.cfg
 .ipynb_checkpoints/
+!/data
