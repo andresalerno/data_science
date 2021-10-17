@@ -1,0 +1,17 @@
+*.dll
+*.exe
+/conda-meta/*
+/DLLs/*
+/include/*
+/Lib/*
+/Library/*
+/libs/*
+/Menu/*
+/Scripts/*
+/share/*
+/tcl/*
+/Tools/*
+/Include/*
+/Lib/*
+/Scripts/*
+pyvenv.cfg
